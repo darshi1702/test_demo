@@ -1,0 +1,1 @@
+This is created in test_branch to check git merge command.
